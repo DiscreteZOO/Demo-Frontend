@@ -1,0 +1,7 @@
+{
+    "title": "Search",
+    "defaultColumns": {
+      "tbMatrices": ["mat", "trace", "orthogonal", "eigenvalues", "characteristic"]
+    }
+}
+     
