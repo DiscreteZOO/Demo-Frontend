@@ -1,0 +1,9 @@
+{
+    "title": "Search",
+    "defaultColumns": {
+      "tbMatrixWithCharacteristicS": ["matrixID", "positive_definite"],
+      "tbMatrixWithCharacteristicSView": ["positive_definite", "mat", "trace", "orthogonal", "eigenvalues"],
+      "tbMatrixS": ["mat", "trace", "orthogonal", "eigenvalues"]
+    }
+}
+     

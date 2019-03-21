@@ -1,0 +1,23 @@
+{
+"tbMatrixWithCharacteristicS": {
+"matrixID": {"isFilter": true, "display": "matrixID", "type": "UUIDIdent"},
+"positive_definite": {"isFilter": true, "display": "positive_definite", "type": "BoolIdent"}
+}
+     ,
+"tbMatrixWithCharacteristicSView": {
+"positive_definite": {"isFilter": true, "display": "positive_definite", "type": "BoolIdent"},
+"mat": {"isFilter": false, "display": "mat", "type": "MatrixAsArray"},
+"trace": {"isFilter": true, "display": "trace", "type": "IntIdent"},
+"orthogonal": {"isFilter": true, "display": "orthogonal", "type": "BoolIdent"},
+"eigenvalues": {"isFilter": false, "display": "eigenvalues", "type": "ListAsArray"}
+}
+     ,
+"tbMatrixS": {
+"mat": {"isFilter": false, "display": "mat", "type": "MatrixAsArray"},
+"trace": {"isFilter": true, "display": "trace", "type": "IntIdent"},
+"orthogonal": {"isFilter": true, "display": "orthogonal", "type": "BoolIdent"},
+"eigenvalues": {"isFilter": false, "display": "eigenvalues", "type": "ListAsArray"}
+}
+     
+}
+     
